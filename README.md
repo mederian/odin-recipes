@@ -1,0 +1,1 @@
+Part of odin project's fundamentals
